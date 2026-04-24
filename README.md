@@ -6,8 +6,8 @@ Desenvolvedor focado em soluções com TOTVS Protheus e integrações.
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoodaroz&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoodaroz&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leeodaroz&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeodaroz&layout=compact&theme=dark"/>
 </p>
 
 ## 🛠️ Tecnologias e Linguagens
