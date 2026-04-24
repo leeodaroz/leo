@@ -2,8 +2,14 @@
 
 Desenvolvedor focado em soluções com TOTVS Protheus e integrações.
 
-## 🛠️ Tecnologias e Linguagens
 
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoodaroz&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoodaroz&layout=compact&theme=dark)
+
+## 🛠️ Tecnologias e Linguagens
 ![ADVPL](https://img.shields.io/badge/ADVPL-000000?style=for-the-badge)
 ![TLPP](https://img.shields.io/badge/TLPP-003366?style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
