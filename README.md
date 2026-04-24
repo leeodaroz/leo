@@ -1,21 +1,18 @@
-# 🚀 Leonardo Daroz
+<div align="center">
+  <h3>Hi there 👋</h3>
+</div>
 
-Desenvolvedor focado em soluções com TOTVS Protheus e integrações.
+<br><br>
 
+<div align="center">
+  <h3>GitHub Stats</h3>
+  <br>
 
-## 📊 Estatísticas
+  <a href="#">
+    <img height="200px" align="center" src="https://github-readme-stats-lime-kappa.vercel.app/api?username=leoodaroz&show_icons=true&theme=dark&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&ring_color=4c7fac">
+  </a>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leeodaroz&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeodaroz&layout=compact&theme=dark&count_private=true&include_all_commits=true"/>
-</p>
-
-## 🛠️ Tecnologias e Linguagens
-![ADVPL](https://img.shields.io/badge/ADVPL-000000?style=for-the-badge)
-![TLPP](https://img.shields.io/badge/TLPP-003366?style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
-![SOAP](https://img.shields.io/badge/SOAP-6DB33F?style=for-the-badge)
-![Fluig](https://img.shields.io/badge/Fluig-FF6A00?style=for-the-badge)
-![SmartView](https://img.shields.io/badge/SmartView-1E90FF?style=for-the-badge)
+  <a href="#">
+    <img height="200px" align="center" src="https://github-readme-stats-lime-kappa.vercel.app/api/top-langs/?username=leoodaroz&theme=dark&exclude_repo=github-readme-stats&hide=XSLT,Vue,Roff,Pascal,SCSS,Java,Scheme&langs_count=8&layout=compact">
+  </a>
+</div>
